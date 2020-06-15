@@ -5,3 +5,7 @@
 .blankspace{
     padding-bottom: 300px;
 }
+
+.centered{
+    justify-content: center;
+}
