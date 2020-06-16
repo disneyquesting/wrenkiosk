@@ -1,5 +1,6 @@
-.body{
+body{
     width: 100%;
+    background-color:white;
 }
 
 .bluebg{
@@ -25,6 +26,7 @@
 .navlogo{
     background-color:#57b9c5;
     height: 50px;
+    
 }
 
 .copyspace{
