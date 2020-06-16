@@ -1,3 +1,7 @@
+.body{
+    width: 100%;
+}
+
 .bluebg{
     background-color: blue;
 }
@@ -10,14 +14,20 @@
     justify-content: center;
 }
 
+.largecard{
+    width:auto;
+    height:auto;
+}
 .card:hover{
-    opacity: .65;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgb(23, 53, 63);
+    transform: scale(0.99);
+}
+
+.navlogo{
+    background-color:#57b9c5;
+    height: 50px;
+}
+
+.copyspace{
+    padding-top: 10px;
+    justify-content: center;
 }
